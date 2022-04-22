@@ -1,4 +1,6 @@
-#include main.h"
+#include "main.h"
+#include <stdarg.h>
+
 /**
 * printpercent - print %
 * @format: format
@@ -9,6 +11,6 @@ int printpercent(char *format, va_list pa)
 {
 (void)format;
 (void)pa;
-_putchar ("%");
+_putchar('%');
 return (1);
 }

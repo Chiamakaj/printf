@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef PRINT_F
+#define PRINT_F
 
 #include <stdarg.h>
 #include <stddef.h>
